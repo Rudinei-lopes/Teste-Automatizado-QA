@@ -24,12 +24,12 @@ Caso a URL seja alterada basta mudar na pasta `support` no arquivo `commands.js`
 
 
 ## Teste de API
-para teste da api ei já criei o usuário ADMIN para facilitar
+Para teste da Api eu já criei o usuário ADMIN para facilitar
 userId = 473517630;
 token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ3d3cuYWR2YW50YWdlb25saW5lc2hvcHBpbmcuY29tIiwidXNlcklkIjo0NzM1MTc2MzAsInN1YiI6IlRlc3RlQUIiLCJyb2xlIjoiQURNSU4ifQ.Oc9w_8p96BqpQ3uKW9D8wEoIW4LbQksInt5j5Qi0mK0";
 
-para alteração da imagem só precisa trocar o `productId` e `color` que encontra-se na pasta integration
+Para criação e modificação da imagem só precisa trocar o `productId` e `color` que encontra-se na pasta `integration`
 
-o restante dos teste estão na pasta `api`
+O teste GET procurar pro um produto está na pasta `api`
 
-OBS:  o site de testes caia bastante, as vezes não funciona então o teste pode quebrar.
+OBS: O site de testes cai bastante, as vezes não funciona então o teste pode quebrar.
